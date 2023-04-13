@@ -5,6 +5,9 @@
 *Core Member* at *Google Developer Student Club TIET*.
 <p> I have worked on several projects, including Meali - a meal catalog app, Pocket Wallet - a personal expense tracker and currently working on Beaver - a chess engine designed to provide a challenging and immersive experience for players of all levels.</p>
 <div id="badges" align="center">
+    <a href="https://iqmansingh.netlify.app/">
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/iqman-singh-bhatia-8b7642222/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
