@@ -17,7 +17,7 @@
   <a href="https://www.hackerrank.com/Iqman_Singh">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
   </a> 
-  <a href="https://medium.com/@ibhatia_be21/">
+  <a href="https://medium.com/@iqmans">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://leetcode.com/ibhatia_be21/">
