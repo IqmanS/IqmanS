@@ -1,9 +1,9 @@
 ### Hi there :wave:, I'm Iqman Singh
 
 ---
-*Kaggle Datasets & Notebooks Expert*<br>
+*Kaggle Notebooks Master & Datasets Expert*<br>
 *B.E. Computer Engineering* Student at *Thapar Institute of Engineering & Technology (TIET), Patiala* <br>
-*Core Member* at *Google Developer Student Club TIET*.
+*Event Management Head* at *Google Developer Student Club TIET*.
 <p> I have worked on several projects, including Meali - a meal catalog app, Pocket Wallet - a personal expense tracker and Beaver - a chess engine designed to provide a challenging and immersive experience for players of all levels.</p>
 <div id="badges" align="center">
     <a href="https://iqmansingh.netlify.app/">
