@@ -1,6 +1,7 @@
 ### Hi there :wave:, I'm Iqman Singh
 
 ---
+*Research Intern @Samsung R&D India*<br>
 *Kaggle Notebooks Master & Datasets Expert*<br>
 *B.E. Computer Engineering* Student at *Thapar Institute of Engineering & Technology (TIET), Patiala* <br>
 *Event Management Head* at *Google Developer Student Club TIET*.
