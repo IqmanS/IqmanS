@@ -1,10 +1,10 @@
 ### Hi there :wave:, I'm Iqman Singh
 
 ---
-*Research Intern @Samsung R&D India*<br>
+*Ex-Research Intern @Samsung R&D India*<br>
 *Kaggle Notebooks Master & Datasets Expert*<br>
 *B.E. Computer Engineering* Student at *Thapar Institute of Engineering & Technology (TIET), Patiala* <br>
-*Event Management Head* at *Google Developer Student Club TIET*.
+*Ex-Event Management Head* at *Google Developer Student Club TIET*.
 <p> I have worked on several projects, including Meali - a meal catalog app, Pocket Wallet - a personal expense tracker and Beaver - a chess engine designed to provide a challenging and immersive experience for players of all levels.</p>
 <div id="badges" align="center">
     <a href="https://iqmansingh.netlify.app/">
