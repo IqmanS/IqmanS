@@ -1,11 +1,12 @@
 ### Hi there :wave:, I'm Iqman Singh
 
 ---
-*Ex-Research Intern @Samsung R&D India*<br>
+*Software Engineer Intern @BlackRock, Gurugram*<br>
+*Ex-Data Analyst Intern @PayPal, Chennai*<br>
+*Ex-Research Intern @Samsung R&D, Bangalore*<br>
 *Kaggle Notebooks Master & Datasets Expert*<br>
-*B.E. Computer Engineering* Student at *Thapar Institute of Engineering & Technology (TIET), Patiala* <br>
-*Ex-Event Management Head* at *Google Developer Student Club TIET*.
-<p> I have worked on several projects, including Meali - a meal catalog app, Pocket Wallet - a personal expense tracker and Beaver - a chess engine designed to provide a challenging and immersive experience for players of all levels.</p>
+*B.E. Computer Engineering* Student at *Thapar Institute of Engineering & Technology (TIET), Patiala* <be>
+
 <div id="badges" align="center">
     <a href="https://iqmansingh.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Portfolio"/>
